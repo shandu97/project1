@@ -1,0 +1,19 @@
+.flajeri {
+    padding: 20px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.flajer-col {
+    width: 45%;
+    margin: 0 25px;
+  }
+.flajeri h2{
+    color: $darkOrange;
+}
+.flajeri img {
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+.o_nama {
+  width: 80%;
+}
+.o_nama h2 {
+  color: $darkOrange;
+}
+
+.o_nama p {
+  color: $deepBlack;
+}
+
+.flex-container {
+    display: flex;
+    width: 100%;
+}
+
+.flex-child {
+    flex: 1;
+    width: 50%;
+    margin-right: 400px;
+}  
+
+.flex-child:first-child {
+    width: 50%;
+} 

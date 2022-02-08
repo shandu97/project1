@@ -1,0 +1,16 @@
+.katalozi {
+    padding: 20px;
+    font-size: 14px;
+    box-sizing: border-box;
+ }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.katalog-col {
+    width: 20%;
+    margin: 0 25px;
+  }
+ .katalog h2{
+     color: $darkOrange;
+ }

@@ -1,0 +1,41 @@
+.header-shadow {
+  background-image: url("/images/banner.svg");
+  height: auto;
+  background-repeat: no-repeat;
+}
+
+.header-shadow .inner {
+  width: 50%;
+  padding: 40px;
+  margin: auto;
+  font-weight: $bigWeight;
+  font-size: $fontBig;
+}
+
+.header-shadow .button {
+  background-color: hsl(36, 100%, 51%);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.header-shadow .button2 {
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}

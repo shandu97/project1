@@ -1,0 +1,17 @@
+.proizvodi {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.proizvod-col {
+    width: 20%;
+    margin: 0 25px;
+  }
+.proizvodi h2{
+    color: $darkOrange;
+}
